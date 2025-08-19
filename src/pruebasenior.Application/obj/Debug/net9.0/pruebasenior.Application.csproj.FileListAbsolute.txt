@@ -1,0 +1,15 @@
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\bin\Debug\net9.0\pruebasenior.Application.deps.json
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\bin\Debug\net9.0\pruebasenior.Application.dll
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\bin\Debug\net9.0\pruebasenior.Application.pdb
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\bin\Debug\net9.0\pruebasenior.Domain.dll
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\bin\Debug\net9.0\pruebasenior.Domain.pdb
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\obj\Debug\net9.0\pruebasenior.Application.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\obj\Debug\net9.0\pruebasenior.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\obj\Debug\net9.0\pruebasenior.Application.AssemblyInfoInputs.cache
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\obj\Debug\net9.0\pruebasenior.Application.AssemblyInfo.cs
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\obj\Debug\net9.0\pruebasenior.Application.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\obj\Debug\net9.0\pruebase.18D279E2.Up2Date
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\obj\Debug\net9.0\pruebasenior.Application.dll
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\obj\Debug\net9.0\refint\pruebasenior.Application.dll
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\obj\Debug\net9.0\pruebasenior.Application.pdb
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Application\obj\Debug\net9.0\ref\pruebasenior.Application.dll

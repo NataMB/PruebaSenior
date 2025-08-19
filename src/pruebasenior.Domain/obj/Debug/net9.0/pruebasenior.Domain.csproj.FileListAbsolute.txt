@@ -1,0 +1,11 @@
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Domain\bin\Debug\net9.0\pruebasenior.Domain.deps.json
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Domain\bin\Debug\net9.0\pruebasenior.Domain.dll
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Domain\bin\Debug\net9.0\pruebasenior.Domain.pdb
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Domain\obj\Debug\net9.0\pruebasenior.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Domain\obj\Debug\net9.0\pruebasenior.Domain.AssemblyInfoInputs.cache
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Domain\obj\Debug\net9.0\pruebasenior.Domain.AssemblyInfo.cs
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Domain\obj\Debug\net9.0\pruebasenior.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Domain\obj\Debug\net9.0\pruebasenior.Domain.dll
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Domain\obj\Debug\net9.0\refint\pruebasenior.Domain.dll
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Domain\obj\Debug\net9.0\pruebasenior.Domain.pdb
+C:\Users\ALEXANDER\Downloads\pruebasenior\src\pruebasenior.Domain\obj\Debug\net9.0\ref\pruebasenior.Domain.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "47J4C5v5PMc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ALEXANDER\\Downloads\\pruebasenior\\src\\pruebasenior.Application\\pruebasenior.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALEXANDER\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
